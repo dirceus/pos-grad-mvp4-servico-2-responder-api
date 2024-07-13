@@ -12,6 +12,8 @@ Objetivo desse componente é fornecer uma API para responder questões e verific
 
 ## Arquitetura
 
+Esse componente faz ṕarte de uma arquitetura de microserviços
+
 ![image](https://github.com/user-attachments/assets/caf01713-2404-4814-a988-8c5ea26f8232)
 
 
