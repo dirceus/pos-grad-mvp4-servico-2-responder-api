@@ -5,9 +5,10 @@ Esse componente faz parte do MVP da disciplina de Arquitetura de Software do cur
 Objetivo desse componente é fornecer uma API para responder questões e verificar se a questão foi respondida corretamente.
 
 ## Tecnlogias
-Pyhon
-Flask
-SQLite
+
+* Pyhon
+* Flask
+* SQLite
 
 ## Arquitetura
 
