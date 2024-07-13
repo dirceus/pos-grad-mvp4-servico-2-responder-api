@@ -2,7 +2,7 @@
 Esse componente faz parte do MVP da disciplina de Arquitetura de Software do cursos de Pós Graduação em Engenhiria de software.
 
 ## Objetivo
-Objetivo desse componente é fornecer uma API para responder questões e verificar se questão foi respondida corretamente.
+Objetivo desse componente é fornecer uma API para responder questões e verificar se a questão foi respondida corretamente.
 
 ## Tecnlogias
 Pyhon
